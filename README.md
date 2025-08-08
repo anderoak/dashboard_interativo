@@ -59,11 +59,7 @@ O dashboard permite explorar dados salariais de profissionais da área de tecnol
 
 Acesse o dashboard pelo navegador no endereço `http://localhost:8501`.
 
-## 📞 Contato
-
-- **Seu Nome** - [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
-- **LinkedIn**: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
-
 ## 📝 Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
